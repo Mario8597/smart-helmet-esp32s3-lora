@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/casco"
+		},
+		{
+			"name": "Practica - Casco",
+			"path": ".."
+		},
+		{
+			"name": "Casco_Receptor",
+			"path": "../../Casco_Receptor"
+		},
+		{
+			"name": "Proyecto Aeronautica",
+			"path": "../../Proyecto Aeronautica"
+		}
+	],
+	"settings": {}
+}
